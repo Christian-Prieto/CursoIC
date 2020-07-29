@@ -34,7 +34,6 @@
             <path>/miwebapp</path>
           </configuration>
         </plugin>
-        
     </plugins>
   </build>
 </project>
