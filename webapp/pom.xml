@@ -29,7 +29,7 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
           <configuration>
-            <url>http://54.154.228.111:8081/manager/text</url>
+            <url>http://63.32.71.170:8081/manager/text</url>
             <server>mitomcat</server>
             <path>/miwebapp</path>
           </configuration>
